@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Calor que mata |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/calor-que-mata/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Calor que mata](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calor-que-mata/) |
+| **Get License** | [Music Rights & Licensing for Calor que mata](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calor-que-mata/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Ese calor que me mata, mami, tú eres fuego
-> Me tienes quemando en tu juego, a todo dar
-> Yo no sé si es la noche o tu forma de mirar
-> Pero esta madrugada no me vas a soltar
+> Calor que mata en la noche, yeah
+> Tu fuego me llama sin voz
+> Calor que mata, no me sueltes
+> Bésame hasta perder el control
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
