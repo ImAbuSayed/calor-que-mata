@@ -15,7 +15,7 @@
 | **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/calor-que-mata/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Calor que mata](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calor-que-mata/) |
+| **Get License** | [License this song: Calor que mata](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calor-que-mata/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -115,8 +115,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | Verification Detail | Information |
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
-| **Version** | `v1` |
-| **SHA-256 Hash** | `d6b39c9ce0eb2e4e993a92bd34fb61877451b7330469f5a265114c2aea4aa1c3` |
+| **Version** | `v2` |
+| **SHA-256 Hash** | `2ba6cd05578d809e12d32eff3fc23847436e5fb80123777ba4b4413c02c2a55e` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
