@@ -15,7 +15,7 @@
 | **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/calor-que-mata/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Calor que mata](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calor-que-mata/) |
+| **Get License** | [Secure Licensing Rights for Calor que mata](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calor-que-mata/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -44,7 +44,7 @@
 
 ## 🔗 Song Links
 
-- [Telegram](https://t.me/AbuSayedMusic/3721)
+- [Telegram](https://t.me/AbuSayedMusic/3733)
 
 ---
 
